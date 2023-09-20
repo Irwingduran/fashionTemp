@@ -4728,6 +4728,7 @@ figcaption {
     color: #fff;
     font-size: 18px;
     font-weight: 300;
+    font-family: 'Montserrat';
 }
 
 .newsletter-text-field {
@@ -4739,6 +4740,7 @@ figcaption {
     border-radius: 4px;
     font-size: 18px;
     transition: border-color .425s;
+    font-family: 'Montserrat';
 }
 
 .newsletter-text-field:focus {
@@ -4763,6 +4765,7 @@ figcaption {
     margin-top: 0;
     margin-bottom: 0;
     font-weight: 300;
+    font-family: 'Andulka';
 }
 
 .newsletter-picture-container {
@@ -7005,5 +7008,5 @@ figcaption {
 }
 
 .fade-in-move-on-scroll h2 {
-    font-family: 'Andulka';
+    font-family: 'Montserrat';
 }
